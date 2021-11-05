@@ -8,4 +8,6 @@
 [Cataclysm: Dark Days Ahead Development Discord](https://discord.gg/jFEc7Yp)  
 IRC channel: irc.libera.chat channel: [#CataclysmDDA webchat](https://kiwiirc.com/nextclient/irc.libera.chat#CataclysmDDA)
 
+<!--START_SECTION:activity-->
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevingranade)](https://github.com/anuraghazra/github-readme-stats)
