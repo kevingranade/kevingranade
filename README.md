@@ -14,11 +14,11 @@ IRC channel: irc.libera.chat channel: [#CataclysmDDA webchat](https://kiwiirc.co
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#67496](https://github.com/CleverRaven/Cataclysm-DDA/pull/67496) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
-2. 💪 Opened PR [#67452](https://github.com/CleverRaven/Cataclysm-DDA/pull/67452) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
-3. 🎉 Merged PR [#67428](https://github.com/CleverRaven/Cataclysm-DDA/pull/67428) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
-4. 🗣 Commented on [#67409](https://github.com/CleverRaven/Cataclysm-DDA/pull/67409#issuecomment-1664267827) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
-5. 💪 Opened PR [#67319](https://github.com/CleverRaven/Cataclysm-DDA/pull/67319) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+1. ❌ Closed PR [#67360](https://github.com/CleverRaven/Cataclysm-DDA/pull/67360) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+2. 🗣 Commented on [#67360](https://github.com/CleverRaven/Cataclysm-DDA/pull/67360#issuecomment-1669721379) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+3. 💪 Opened PR [#67496](https://github.com/CleverRaven/Cataclysm-DDA/pull/67496) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+4. 💪 Opened PR [#67452](https://github.com/CleverRaven/Cataclysm-DDA/pull/67452) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+5. 🎉 Merged PR [#67428](https://github.com/CleverRaven/Cataclysm-DDA/pull/67428) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
 <!--END_SECTION:activity-->
 
 </td></tr></table>
