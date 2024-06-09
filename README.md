@@ -14,11 +14,11 @@ IRC channel: irc.libera.chat channel: [#CataclysmDDA webchat](https://kiwiirc.co
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#74158](https://github.com/CleverRaven/Cataclysm-DDA/issues/74158#issuecomment-2156795534) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
-2. 🗣 Commented on [#74158](https://github.com/CleverRaven/Cataclysm-DDA/issues/74158#issuecomment-2156792466) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
-3. 🗣 Commented on [#74158](https://github.com/CleverRaven/Cataclysm-DDA/issues/74158#issuecomment-2156786890) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
-4. 🗣 Commented on [#71335](https://github.com/CleverRaven/Cataclysm-DDA/pull/71335#issuecomment-2156745299) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
-5. 🗣 Commented on [#74385](https://github.com/CleverRaven/Cataclysm-DDA/pull/74385#issuecomment-2156356422) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+1. 🗣 Commented on [#74203](https://github.com/CleverRaven/Cataclysm-DDA/issues/74203#issuecomment-2156806766) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+2. 🗣 Commented on [#74203](https://github.com/CleverRaven/Cataclysm-DDA/issues/74203#issuecomment-2156804686) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+3. 💪 Opened PR [#74421](https://github.com/CleverRaven/Cataclysm-DDA/pull/74421) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+4. 🗣 Commented on [#74158](https://github.com/CleverRaven/Cataclysm-DDA/issues/74158#issuecomment-2156795534) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+5. 🗣 Commented on [#74158](https://github.com/CleverRaven/Cataclysm-DDA/issues/74158#issuecomment-2156792466) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
 <!--END_SECTION:activity-->
 
 </td></tr></table>
