@@ -14,11 +14,11 @@ IRC channel: irc.libera.chat channel: [#CataclysmDDA webchat](https://kiwiirc.co
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#73620](https://github.com/CleverRaven/Cataclysm-DDA/pull/73620#issuecomment-2163775421) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
-2. 🗣 Commented on [#74426](https://github.com/CleverRaven/Cataclysm-DDA/issues/74426#issuecomment-2163745919) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
-3. 🗣 Commented on [#71955](https://github.com/CleverRaven/Cataclysm-DDA/issues/71955#issuecomment-2163736321) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
-4. 🔒 Closed issue [#71955](https://github.com/CleverRaven/Cataclysm-DDA/issues/71955) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
-5. 🔒 Closed issue [#70580](https://github.com/CleverRaven/Cataclysm-DDA/issues/70580) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+1. 🗣 Commented on [#55541](https://github.com/CleverRaven/Cataclysm-DDA/issues/55541#issuecomment-2164041419) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+2. 🗣 Commented on [#55541](https://github.com/CleverRaven/Cataclysm-DDA/issues/55541#issuecomment-2164035428) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+3. 🗣 Commented on [#74496](https://github.com/CleverRaven/Cataclysm-DDA/issues/74496#issuecomment-2164022630) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+4. 🔒 Closed issue [#74496](https://github.com/CleverRaven/Cataclysm-DDA/issues/74496) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+5. 🗣 Commented on [#74492](https://github.com/CleverRaven/Cataclysm-DDA/pull/74492#issuecomment-2164020317) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
 <!--END_SECTION:activity-->
 
 </td></tr></table>
