@@ -14,11 +14,11 @@ IRC channel: irc.libera.chat channel: [#CataclysmDDA webchat](https://kiwiirc.co
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#83087](https://github.com/CleverRaven/Cataclysm-DDA/issues/83087#issuecomment-3353772851) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
-2. 🗣 Commented on [#83001](https://github.com/CleverRaven/Cataclysm-DDA/pull/83001#issuecomment-3353762773) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
-3. 🗣 Commented on [#83058](https://github.com/CleverRaven/Cataclysm-DDA/pull/83058#issuecomment-3348882983) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
-4. 🗣 Commented on [#83087](https://github.com/CleverRaven/Cataclysm-DDA/issues/83087#issuecomment-3348337047) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
-5. 🗣 Commented on [#83087](https://github.com/CleverRaven/Cataclysm-DDA/issues/83087#issuecomment-3348254746) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+1. 💪 Opened PR [#83127](https://github.com/CleverRaven/Cataclysm-DDA/pull/83127) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+2. 🗣 Commented on [#83087](https://github.com/CleverRaven/Cataclysm-DDA/issues/83087#issuecomment-3353772851) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+3. 🗣 Commented on [#83001](https://github.com/CleverRaven/Cataclysm-DDA/pull/83001#issuecomment-3353762773) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+4. 🗣 Commented on [#83058](https://github.com/CleverRaven/Cataclysm-DDA/pull/83058#issuecomment-3348882983) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+5. 🗣 Commented on [#83087](https://github.com/CleverRaven/Cataclysm-DDA/issues/83087#issuecomment-3348337047) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
 <!--END_SECTION:activity-->
 
 </td></tr></table>
