@@ -14,10 +14,10 @@ IRC channel: irc.libera.chat channel: [#CataclysmDDA webchat](https://kiwiirc.co
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#67](https://github.com/melissawm/open-source-ai-contribution-policies/pull/67) in [melissawm/open-source-ai-contribution-policies](https://github.com/melissawm/open-source-ai-contribution-policies)
-2. 💪 Opened PR [#67](https://github.com/melissawm/open-source-ai-contribution-policies/pull/67) in [melissawm/open-source-ai-contribution-policies](https://github.com/melissawm/open-source-ai-contribution-policies)
-3. 🎉 Merged PR [#86726](https://github.com/CleverRaven/Cataclysm-DDA/pull/86726) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
-4. ℹ️ Labeled PR [#86726](https://github.com/CleverRaven/Cataclysm-DDA/pull/86726) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+1. 🗣 Commented on [#86817](https://github.com/CleverRaven/Cataclysm-DDA/pull/86817#issuecomment-4372372317) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+2. 🎉 Merged PR [#67](https://github.com/melissawm/open-source-ai-contribution-policies/pull/67) in [melissawm/open-source-ai-contribution-policies](https://github.com/melissawm/open-source-ai-contribution-policies)
+3. 💪 Opened PR [#67](https://github.com/melissawm/open-source-ai-contribution-policies/pull/67) in [melissawm/open-source-ai-contribution-policies](https://github.com/melissawm/open-source-ai-contribution-policies)
+4. 🎉 Merged PR [#86726](https://github.com/CleverRaven/Cataclysm-DDA/pull/86726) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
 5. ℹ️ Labeled PR [#86726](https://github.com/CleverRaven/Cataclysm-DDA/pull/86726) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
 <!--END_SECTION:activity-->
 
