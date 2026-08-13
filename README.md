@@ -14,11 +14,11 @@ IRC channel: irc.libera.chat channel: [#CataclysmDDA webchat](https://kiwiirc.co
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#88178](https://github.com/CleverRaven/Cataclysm-DDA/pull/88178#issuecomment-5275189139) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
-2. 🗣 Commented on [#88298](https://github.com/CleverRaven/Cataclysm-DDA/pull/88298#issuecomment-5275027224) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
-3. 🗣 Commented on [#88298](https://github.com/CleverRaven/Cataclysm-DDA/pull/88298#issuecomment-5274658017) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
-4. 🗣 Commented on [#88298](https://github.com/CleverRaven/Cataclysm-DDA/pull/88298#issuecomment-5274478263) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
-5. 🗣 Commented on [#88296](https://github.com/CleverRaven/Cataclysm-DDA/pull/88296#issuecomment-5260980531) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+1. 🗣 Commented on [#88298](https://github.com/CleverRaven/Cataclysm-DDA/pull/88298#issuecomment-5284022663) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+2. 🗣 Commented on [#88178](https://github.com/CleverRaven/Cataclysm-DDA/pull/88178#issuecomment-5275189139) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+3. 🗣 Commented on [#88298](https://github.com/CleverRaven/Cataclysm-DDA/pull/88298#issuecomment-5275027224) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+4. 🗣 Commented on [#88298](https://github.com/CleverRaven/Cataclysm-DDA/pull/88298#issuecomment-5274658017) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+5. 🗣 Commented on [#88298](https://github.com/CleverRaven/Cataclysm-DDA/pull/88298#issuecomment-5274478263) in [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
 <!--END_SECTION:activity-->
 
 </td></tr></table>
